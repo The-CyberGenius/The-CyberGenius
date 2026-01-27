@@ -7,9 +7,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=shiva&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E" alt="Shiva's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=The-CyberGenius&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E" alt="The-CyberGenius's Github Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva&theme=radical&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="Shiva's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=The-CyberGenius&theme=radical&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="The-CyberGenius's Streak" />
 
 </div>
 
@@ -37,7 +37,7 @@
 ### 📈 Top Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=20C20E" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-CyberGenius&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=20C20E" alt="Top Languages" />
 </div>
 
 ---
@@ -45,7 +45,7 @@
 ### 🐍 Snake Contribution Graph
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/shiva/shiva/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://github.com/The-CyberGenius/The-CyberGenius/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <!-- 
