@@ -7,8 +7,8 @@
 
 <br/>
 
-<!-- Hero GIF - High Tech/Abstract -->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d6255106173009.5f89be2a690e8.gif" alt="Future Tech" width="100%" />
+<!-- Hero Image - Generated Visionary Art -->
+<img src="hero_image.png" alt="Future Tech" width="100%" />
 
 <br/>
 
