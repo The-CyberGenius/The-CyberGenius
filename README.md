@@ -2,7 +2,7 @@
 
 <!-- Typing Header -->
 <a href="https://github.com/The-CyberGenius">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Visionary+Storyteller;Digital+Creator;Tech+Enthusiast;Turning+Ideas+Into+Reality;Powered+By+Artificial+Intelligence" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Visionary+Tech+Enthusiast;Turning+Ideas+Into+Reality;Powered+By+Artificial+Intelligence" alt="Typing Header" />
 </a>
 
 <br/>
