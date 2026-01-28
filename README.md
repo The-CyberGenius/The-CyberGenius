@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center" width="80%">
-  Hello! I am a **Digital Creator** and **Tech Explorer**. <br/>
+  Hello! I am a Tech Explorer. <br/>
   While I may not write every line of code myself, I master the art of <b>leveraging Artificial Intelligence</b> and modern tools to architect complex systems and bring ambitious ideas to life. I focus on the <i>result</i>, the <i>experience</i>, and the <i>innovation</i>.
 </p>
 
