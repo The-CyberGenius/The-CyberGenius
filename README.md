@@ -7,11 +7,6 @@
 
 <br/>
 
-<!-- Hero Image - Generated Visionary Art -->
-<img src="hero_image.png" alt="Future Tech" width="100%" />
-
-<br/>
-
 ### 🚀 THE VISION
 
 > *"Technology is the brush, and the future is our canvas."*
@@ -61,5 +56,8 @@
     <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
+<br>
+<!-- Hero Image - Generated Visionary Art -->
+<img src="hero_image.png" alt="Future Tech" width="100%" />
+<br>
 </div>
