@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Typing Header -->
-<a href="https://github.com/The-CyberGenius">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Visionary+Tech+Enthusiast;Turning+Ideas+Into+Reality;Powered+By+Artificial+Intelligence" alt="Typing Header" />
-</a>
+[![The Cyber Genius](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Visionary+Tech+Enthusiast;Building+Digital+Realities;Master+of+AI+Agent+Architecture;Turning+Ideas+Into+Code;Powered+By+Artificial+Intelligence)](https://github.com/The-CyberGenius)
 
 <br/>
 
@@ -13,30 +11,56 @@
 
 <br/>
 
-<p align="center" width="80%">
-  Hello! I am a Tech Explorer. <br/>
-  While I may not write every line of code myself, I master the art of <b>leveraging Artificial Intelligence</b> and modern tools to architect complex systems and bring ambitious ideas to life. I focus on the <i>result</i>, the <i>experience</i>, and the <i>innovation</i>.
+<!-- Main Content Grid -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a <b>Tech Explorer</b> and <b>Visionary Architect</b>. My code doesn't just run; it <i>creates experiences</i>.
+      </p>
+      <p>
+        I specialize in leveraging <b>Artificial Intelligence</b> to build scalable, high-impact systems. Whether it's crafting immersive web applications or orchestrating complex backend logic, I focus on the final <i>masterpiece</i>.
+      </p>
+      <br/>
+      <h3>🛠️ Arsenal</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vscode,figma,linux,vercel&perline=6&theme=dark" alt="Toolkit" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <br/>
+      <!-- Stats Card -->
+      <a href="https://github.com/The-CyberGenius">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-CyberGenius&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" />
+      </a>
+      <br/><br/>
+      <!-- Top Langs -->
+      <a href="https://github.com/The-CyberGenius">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-CyberGenius&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-CyberGenius&theme=omni&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<br/>
-
-### 🛠️ MY TOOLKIT
-
-<!-- Generic Tools & Concepts - No "I know Python" lies -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vscode,idea,figma,photoshop,vercel,linux&perline=7&theme=dark" alt="Toolkit" />
-</a>
-
-<br/>
 <br/>
 
 ### 🌐 FOCUS AREAS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital_Design-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Innovation-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Automation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Architecture-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img src="https://img.shields.io/badge/FullStack_Mastery-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <br/>
@@ -56,8 +80,10 @@
     <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
 <br>
-<!-- Hero Image - Generated Visionary Art -->
+<!-- Hero Image -->
 <img src="hero_image.png" alt="Future Tech" width="100%" />
 <br>
+
 </div>
