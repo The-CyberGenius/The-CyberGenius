@@ -34,12 +34,12 @@
       <br/>
       <!-- Stats Card -->
       <a href="https://github.com/The-CyberGenius">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-CyberGenius&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" />
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-CyberGenius&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" />
       </a>
       <br/><br/>
       <!-- Top Langs -->
       <a href="https://github.com/The-CyberGenius">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-CyberGenius&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" />
+        <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-CyberGenius&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" />
       </a>
     </td>
   </tr>
