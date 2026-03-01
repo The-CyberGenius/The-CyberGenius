@@ -83,7 +83,7 @@
 
 <br>
 <!-- Hero Image -->
-<img src="hero_image.png" alt="Future Tech" width="100%" />
+<img src="hero_image.png" alt="Future Tech" width="20%" />
 <br>
 
 </div>
