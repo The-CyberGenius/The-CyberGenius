@@ -1,89 +1,88 @@
-<div align="center">
-
-<!-- Typing Header -->
-[![The Cyber Genius](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Visionary+Tech+Enthusiast;Building+Digital+Realities;Master+of+AI+Agent+Architecture;Turning+Ideas+Into+Code;Powered+By+Artificial+Intelligence)](https://github.com/The-CyberGenius)
-
-<br/>
-
-### 🚀 THE VISION
-
-> *"Technology is the brush, and the future is our canvas."*
-
-<br/>
-
-<!-- Main Content Grid -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I am a <b>Tech Explorer</b> and <b>Visionary Architect</b>. My code doesn't just run; it <i>creates experiences</i>.
-      </p>
-      <p>
-        I specialize in leveraging <b>Artificial Intelligence</b> to build scalable, high-impact systems. Whether it's crafting immersive web applications or orchestrating complex backend logic, I focus on the final <i>masterpiece</i>.
-      </p>
-      <br/>
-      <h3>🛠️ Arsenal</h3>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vscode,figma,linux,vercel&perline=6&theme=dark" alt="Toolkit" />
-        </a>
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <br/>
-      <!-- Stats Card -->
-      <a href="https://github.com/The-CyberGenius">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-CyberGenius&show_icons=true&theme=omni&hide_border=true&bg_color=0d1117" />
-      </a>
-      <br/><br/>
-      <!-- Top Langs -->
-      <a href="https://github.com/The-CyberGenius">
-        <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-CyberGenius&layout=compact&theme=omni&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-CyberGenius&theme=omni&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-### 🌐 FOCUS AREAS
+# Hey, I'm Shiva 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital_Architecture-ff69b4?style=for-the-badge&logo=dribbble&logoColor=white" />
-  <img src="https://img.shields.io/badge/FullStack_Mastery-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/System_Design-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Autonomous+Systems;Shipping+Modern+Web+Products" />
 </p>
 
-<br/>
-<br/>
+<p align="center">
+  AI systems • Full stack engineering • Automation • Product building
+</p>
 
-<!-- Footer / Connect -->
+---
+
+## 🚀 About Me
+
+I build AI-powered products, autonomous workflows, and scalable full-stack applications.
+
+My focus is on combining modern frontend experiences with intelligent backend systems that solve real problems.
+
+### Current Focus
+- AI agents & orchestration
+- Automation systems
+- Full-stack SaaS products
+- Developer tools
+- Scalable backend architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & AI
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Work
+
+### 🤖 AI Agent Systems
+Autonomous workflows, intelligent assistants, and multi-agent experimentation.
+
+### ⚡ Full Stack Applications
+Modern apps with authentication, APIs, dashboards, and scalable infrastructure.
+
+### 🧠 Experimental Projects
+Rapid prototypes exploring AI interfaces, productivity systems, and future workflows.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=The-CyberGenius&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-CyberGenius&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-CyberGenius&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/balkrishan-prajapat-188314192">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://x.com/X_shiva2001">
-    <img src="https://img.shields.io/badge/Follow_on_X-black?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:sshivaprajapat@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br>
-<!-- Hero Image -->
-<img src="hero_image.png" alt="Future Tech" width="20%" />
-<br>
+---
 
-</div>
+<p align="center">
+  <i>Building useful systems with AI.</i>
+</p>
